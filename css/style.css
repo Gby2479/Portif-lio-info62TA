@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #3d3d3d;
+}
+h1{
+    margin: 2% 5% 0%;
+    color: #fff;
+}
+hr{
+    background-color: rgb(5, 61, 42);
+}
+div{
+    float:left;
+    display: block;
+    margin: 2%;
+}
+img{
+    width: 400px;
+    margin: 1%;
+}
+p{
+    margin-left: 3%;
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    color: #fff;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+.wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
